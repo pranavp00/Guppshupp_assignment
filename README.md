@@ -228,4 +228,3 @@ MIT License - Feel free to use for educational purposes.
 
 ---
 
-**Made with ❤️ for the AI Assignment**
